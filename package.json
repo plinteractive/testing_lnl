@@ -1,0 +1,32 @@
+{
+  "name": "pluicore",
+  "version": "1.0.0",
+  "description": "practice front end unti testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chris kettenbach",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0",
+    "gulp-ngdocs": "^0.2.13",
+    "gulp-requirejs-optimize": "^1.0.0",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.8",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-requirejs": "^1.0.0",
+    "phantomjs": "^2.1.7"
+  },
+  "dependencies": {
+    "dateformat": "^1.0.12",
+    "gulp-bump": "^2.1.0",
+    "gulp-header": "^1.7.1",
+    "requirejs": "^2.2.0"
+  }
+}
